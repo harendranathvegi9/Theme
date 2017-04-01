@@ -1,0 +1,57 @@
+#main {
+width:360px;
+margin:50px auto;
+font-family:raleway
+}
+span {
+color:cyan;
+}
+h2 {
+background-color:#FEFFED;
+text-align:center;
+
+}
+#content h1{ color: #ADD8E6; }
+#whole h2{ color: #FFA500; }
+
+#login {
+width:300px;
+float:left;
+border-radius:10px;
+font-family:raleway;
+border:2px solid #ccc;
+padding:10px 40px 25px;
+margin-top:5px
+}
+input[type=text],input[type=password] {
+width:99.5%;
+padding:10px;
+margin-top:8px;
+border:1px solid #ccc;
+padding-left:5px;
+font-size:16px;
+font-family:raleway
+}
+input[type=submit] {
+width:100%;
+background-color:#2F4F4F;
+color:#fff;
+padding:8px;
+font-size:20px;
+cursor:pointer;
+border-radius:5px;
+margin-bottom:15px
+}
+
+i
+#profile {
+padding:50px;
+border:1px dashed grey;
+font-size:20px;
+background-color:#DCE6F7
+}
+
+a {
+text-decoration:none;
+color:#6495ed
+}
